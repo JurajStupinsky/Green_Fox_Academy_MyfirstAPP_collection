@@ -1,0 +1,71 @@
+.main_container {
+  font-family: 'Open Sans';
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+   
+}
+.card {
+  width: 180px;
+  background: #3cb878;
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+  box-shadow: 1px 1px 10px 1px black;
+   
+  
+}
+.card_holder {
+  display: flex;
+  justify-content: space-between;
+}
+.newsletter_form #email_line {
+  display: block;
+  width: 100%;
+  border: solid grey 1px;
+  height: 25px;
+  padding-left: 3px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+.newsletter_form button {
+  width: 100%;
+  color: white;
+  background: #3cb878;
+  border: 0;
+  height: 25px;
+  margin-top: 5px;
+}
+.newsletter_form p {
+  color: grey;
+}
+#accept_terms {
+  position: 
+}
+.newsletter_form {
+  border: solid thin grey;
+  padding: 10px;
+  border-radius: 3px;
+  position: relative;
+}
+h3 {
+  margin-top: 0px;
+}
+.X {
+  position: absolute;
+  top: 0px;
+  left: 97%;
+  cursor: pointer;
+}
+#Qmark {
+  height: 100px;
+  width: 100px;
+  background: #3cb878;
+  border-radius: 50%;
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  position: fixed;
+  bottom: 2%;
+  right: 1%
+}
